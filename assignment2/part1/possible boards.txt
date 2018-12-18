@@ -1,0 +1,3 @@
+3 o ...x..o.ox.oxxxoxo 5
+3 o .................. 5
+3 o ...x..o.xx.oxoxoxo 5

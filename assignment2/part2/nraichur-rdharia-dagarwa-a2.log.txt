@@ -1,0 +1,14 @@
+The top 5 common words in ascending order are:
+Los_Angeles,_CA : hiring  angeles  job  los  ca  
+San_Francisco,_CA : job  francisco  sanfrancisco  san  ca  
+Manhattan,_NY : newyork  nyc  ny  york  new  
+San_Diego,_CA : diego  job  sandiego  san  ca  
+Houston,_TX : jobs  hiring  job  tx  houston  
+Chicago,_IL : jobs  hiring  job  il  chicago  
+Philadelphia,_PA : philly  hiring  job  pa  philadelphia  
+Toronto,_Ontario : st  ontario  hiring  job  toronto  
+Atlanta,_GA : georgia  hiring  job  ga  atlanta  
+Washington,_DC : jobs  hiring  job  washington  dc  
+Boston,_MA : jobs  hiring  job  ma  boston  
+Orlando,_FL : job  fl  opd  orlando  orlpol  
+Accuracy:  5.020080321285141
