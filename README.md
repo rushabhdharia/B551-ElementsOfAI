@@ -1,7 +1,8 @@
 # B551-ElementsOfAI
 Assignments done in the course B551  
 
-Assignment 0 - N-Rooks, NQueens and NKnights  
+Assignment 0  
+N-Rooks, NQueens and NKnights  
 
 Assignment 1   
 Part 1 - 16 Puzzle  
